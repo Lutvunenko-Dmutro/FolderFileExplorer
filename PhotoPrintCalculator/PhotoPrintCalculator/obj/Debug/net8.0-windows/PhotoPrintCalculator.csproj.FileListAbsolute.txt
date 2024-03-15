@@ -1,0 +1,17 @@
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\bin\Debug\net8.0-windows\PhotoPrintCalculator.exe
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\bin\Debug\net8.0-windows\PhotoPrintCalculator.deps.json
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\bin\Debug\net8.0-windows\PhotoPrintCalculator.runtimeconfig.json
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\bin\Debug\net8.0-windows\PhotoPrintCalculator.dll
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\bin\Debug\net8.0-windows\PhotoPrintCalculator.pdb
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\obj\Debug\net8.0-windows\PhotoPrintCalculator.Form1.resources
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\obj\Debug\net8.0-windows\PhotoPrintCalculator.csproj.GenerateResource.cache
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\obj\Debug\net8.0-windows\PhotoPrintCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\obj\Debug\net8.0-windows\PhotoPrintCalculator.AssemblyInfoInputs.cache
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\obj\Debug\net8.0-windows\PhotoPrintCalculator.AssemblyInfo.cs
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\obj\Debug\net8.0-windows\PhotoPrintCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\obj\Debug\net8.0-windows\PhotoPrintCalculator.dll
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\obj\Debug\net8.0-windows\refint\PhotoPrintCalculator.dll
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\obj\Debug\net8.0-windows\PhotoPrintCalculator.pdb
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\obj\Debug\net8.0-windows\PhotoPrintCalculator.genruntimeconfig.cache
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\obj\Debug\net8.0-windows\ref\PhotoPrintCalculator.dll
+C:\Users\dmutr\Desktop\1\С++\PhotoPrintCalculator\PhotoPrintCalculator\obj\Debug\net8.0-windows\PhotoPrintCalculator.Properties.Resources.resources
