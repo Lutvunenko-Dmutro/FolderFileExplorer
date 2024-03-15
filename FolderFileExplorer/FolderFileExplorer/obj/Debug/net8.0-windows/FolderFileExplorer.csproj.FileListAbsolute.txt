@@ -1,0 +1,16 @@
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\bin\Debug\net8.0-windows\FolderFileExplorer.exe
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\bin\Debug\net8.0-windows\FolderFileExplorer.deps.json
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\bin\Debug\net8.0-windows\FolderFileExplorer.runtimeconfig.json
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\bin\Debug\net8.0-windows\FolderFileExplorer.dll
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\bin\Debug\net8.0-windows\FolderFileExplorer.pdb
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\obj\Debug\net8.0-windows\FolderFileExplorer.Form1.resources
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\obj\Debug\net8.0-windows\FolderFileExplorer.csproj.GenerateResource.cache
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\obj\Debug\net8.0-windows\FolderFileExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\obj\Debug\net8.0-windows\FolderFileExplorer.AssemblyInfoInputs.cache
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\obj\Debug\net8.0-windows\FolderFileExplorer.AssemblyInfo.cs
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\obj\Debug\net8.0-windows\FolderFileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\obj\Debug\net8.0-windows\FolderFileExplorer.dll
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\obj\Debug\net8.0-windows\refint\FolderFileExplorer.dll
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\obj\Debug\net8.0-windows\FolderFileExplorer.pdb
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\obj\Debug\net8.0-windows\FolderFileExplorer.genruntimeconfig.cache
+C:\Users\dmutr\Desktop\1\С++\FolderFileExplorer\FolderFileExplorer\obj\Debug\net8.0-windows\ref\FolderFileExplorer.dll
