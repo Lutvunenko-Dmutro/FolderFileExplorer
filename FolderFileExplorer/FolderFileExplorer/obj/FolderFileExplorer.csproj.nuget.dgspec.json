@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmutr\\Desktop\\1\\С++\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer.csproj": {}
+    "D:\\yhoba\\1\\С#\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmutr\\Desktop\\1\\С++\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer.csproj": {
+    "D:\\yhoba\\1\\С#\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmutr\\Desktop\\1\\С++\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer.csproj",
+        "projectUniqueName": "D:\\yhoba\\1\\С#\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer.csproj",
         "projectName": "FolderFileExplorer",
-        "projectPath": "C:\\Users\\dmutr\\Desktop\\1\\С++\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer.csproj",
+        "projectPath": "D:\\yhoba\\1\\С#\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer.csproj",
         "packagesPath": "C:\\Users\\dmutr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmutr\\Desktop\\1\\С++\\FolderFileExplorer\\FolderFileExplorer\\obj\\",
+        "outputPath": "D:\\yhoba\\1\\С#\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -63,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

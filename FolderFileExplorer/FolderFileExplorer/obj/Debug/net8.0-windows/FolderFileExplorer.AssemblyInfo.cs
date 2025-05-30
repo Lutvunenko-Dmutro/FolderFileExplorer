@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FolderFileExplorer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba14221b60c436ac92b7832735b466ed1c1b138e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FolderFileExplorer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FolderFileExplorer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

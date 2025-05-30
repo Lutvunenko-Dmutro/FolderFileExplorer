@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\yhoba\\1\\\u0421#\\FolderFileExplorer\\FolderFileExplorer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEC3EF7-94FB-4682-9C73-BD7E634C8831}|FolderFileExplorer\\FolderFileExplorer.csproj|d:\\yhoba\\1\\\u0441#\\folderfileexplorer\\folderfileexplorer\\folderfileexplorer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFEC3EF7-94FB-4682-9C73-BD7E634C8831}|FolderFileExplorer\\FolderFileExplorer.csproj|solutionrelative:folderfileexplorer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEC3EF7-94FB-4682-9C73-BD7E634C8831}|FolderFileExplorer\\FolderFileExplorer.csproj|d:\\yhoba\\1\\\u0441#\\folderfileexplorer\\folderfileexplorer\\folderfileexplorer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEC3EF7-94FB-4682-9C73-BD7E634C8831}|FolderFileExplorer\\FolderFileExplorer.csproj|solutionrelative:folderfileexplorer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEC3EF7-94FB-4682-9C73-BD7E634C8831}|FolderFileExplorer\\FolderFileExplorer.csproj|d:\\yhoba\\1\\\u0441#\\folderfileexplorer\\folderfileexplorer\\folderfileexplorer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEC3EF7-94FB-4682-9C73-BD7E634C8831}|FolderFileExplorer\\FolderFileExplorer.csproj|solutionrelative:folderfileexplorer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\yhoba\\1\\\u0421#\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer\\Form1.cs",
+              "RelativeDocumentMoniker": "FolderFileExplorer\\Form1.cs",
+              "ToolTip": "D:\\yhoba\\1\\\u0421#\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer\\Form1.cs",
+              "RelativeToolTip": "FolderFileExplorer\\Form1.cs",
+              "ViewState": "AgIAANEBAAAAAAAAAAAiwPQBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T16:40:24.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\yhoba\\1\\\u0421#\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer\\Form1.cs",
+              "RelativeDocumentMoniker": "FolderFileExplorer\\Form1.cs",
+              "ToolTip": "D:\\yhoba\\1\\\u0421#\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FolderFileExplorer\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:43:15.595Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\yhoba\\1\\\u0421#\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer\\Program.cs",
+              "RelativeDocumentMoniker": "FolderFileExplorer\\Program.cs",
+              "ToolTip": "D:\\yhoba\\1\\\u0421#\\FolderFileExplorer\\FolderFileExplorer\\FolderFileExplorer\\Program.cs",
+              "RelativeToolTip": "FolderFileExplorer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:36:01.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
